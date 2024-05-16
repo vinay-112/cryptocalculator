@@ -1,0 +1,217 @@
+/* body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+}
+
+.converter-container {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    max-width: 400px;
+    width: 100%;
+}
+
+.input-container {
+    margin-bottom: 20px;
+}
+
+label {
+    font-weight: bold;
+}
+
+input, select, button {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 100%;
+    margin-top: 5px;
+}
+
+button {
+    background-color: #007bff;
+    color: #fff;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+#result {
+    margin-top: 20px;
+    font-weight: bold;
+} */
+
+
+
+
+
+
+
+
+
+/* 
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: flex-end; 
+    align-items: center;
+    height: 100vh;
+    background-image: url('https://img.freepik.com/premium-vector/imprimir_975381-65.jpg?w=996'); 
+    background-size: cover;
+    background-position: center;
+}
+
+
+.converter-container {
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5); 
+    text-align: center;
+    max-width: 500px; 
+    height: 500px;
+    width: 100%;
+    margin-left: auto; 
+    margin-right: 20px; 
+}
+
+.converter-container h1 {
+    border: 2px solid #333;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+.input-container {
+    margin-bottom: 20px;
+}
+
+label {
+    font-weight: bold;
+    color: #333; 
+}
+
+input, select, button {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 100%;
+    margin-top: 5px;
+    box-sizing: border-box; 
+}
+
+button {
+    background-color: #21186b; 
+    color: #fff;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    font-size: 21px;
+}
+
+button:hover {
+    background-color: #10ca28; 
+}
+
+#result {
+    margin-top: 20px;
+    font-weight: bold;
+    color: #333; 
+}  */
+
+
+
+
+
+
+
+
+
+
+
+
+/* Body styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center;
+    height: 100vh;
+    background-image: url('https://img.freepik.com/premium-vector/imprimir_975381-65.jpg?w=996');
+    background-size: cover;
+    background-position: center;
+}
+
+/* Container styles */
+.converter-container {
+    background-color: rgba(255, 255, 255, 0.9); /* Semi-transparent white background */
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+    text-align: center;
+    max-width: 600px; /* Increased max-width for better readability */
+    width: 90%; /* Adjusted width for responsiveness */
+    margin-left: auto; /* Move container to the right */
+}
+
+/* Title styles */
+.converter-container h1 {
+    border-bottom: 2px solid #333; /* Bottom border */
+    padding-bottom: 10px; /* Added padding at the bottom */
+    margin-bottom: 20px; /* Increased margin for spacing */
+}
+
+/* Input container styles */
+.input-container {
+    margin-bottom: 30px; /* Increased margin for more spacing */
+}
+
+/* Label styles */
+label {
+    font-weight: bold;
+    color: #333;
+    display: block; /* Ensures labels are displayed on new lines */
+    margin-bottom: 5px; /* Added margin for spacing */
+}
+
+/* Input styles */
+input, select, button {
+    padding: 12px; /* Increased padding for better appearance */
+    border: 2px solid #ccc; /* Slightly thicker border */
+    border-radius: 8px;
+    width: 100%;
+    margin-top: 8px; /* Adjusted margin for better spacing */
+    box-sizing: border-box;
+}
+
+/* Button styles */
+button {
+    background-color: #21186b;
+    color: #fff;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    font-size: 18px; /* Slightly reduced font size */
+}
+
+button:hover {
+    background-color: #10ca28;
+}
+
+/* Result styles */
+#result {
+    margin-top: 20px;
+    font-weight: bold;
+    color: #333;
+}
